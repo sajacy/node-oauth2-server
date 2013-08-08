@@ -30,9 +30,6 @@
     			"url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     		}
     	],
-	"engines": {
-		"node": ">=0.8"
-	},
 	"scripts": {
 		"test": "mocha"
 	}
